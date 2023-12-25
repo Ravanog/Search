@@ -72,3 +72,4 @@ connections - Get connected channels list
 ## 📌  𝑵𝒐𝒕𝒆
 
 ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
+https://heroku.com/deploy?template=https://github.com/Ravanog/Search
