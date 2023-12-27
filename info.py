@@ -1,5 +1,5 @@
 import re
-from utiles.Script import script 
+from utils.Script import script 
 
 
 API_ID       = ""
