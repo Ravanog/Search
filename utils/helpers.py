@@ -7,7 +7,7 @@ from pyrogram.errors import UserNotParticipant
 from motor.motor_asyncio import AsyncIOMotorClient
 from pyrogram.types import ChatPermissions, InlineKeyboardMarkup, InlineKeyboardButton
 
-dbclient = AsyncIOMotorClient(DATABASE_URI)
+dbclient = AsyncIOMotorClient(DB_URI)
 db       = dbclient["Channel-Filter"]
 grp_col  = db["GROUPS"]
 user_col = db["USERS"]
